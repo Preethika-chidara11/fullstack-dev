@@ -1,0 +1,19 @@
+ul li
+{
+    list-style: none;
+    padding: 25px;
+}
+ul li a
+{
+    text-decoration: none;
+}
+ul
+{
+    background-color: brown;
+    width:30%;
+    height:100%;
+}
+ul li a:hover
+{
+    background-color: chocolate;
+}
